@@ -64,7 +64,7 @@ You can also get more information like *raw_img/boudingbox/score/class_id* from 
    git clone --recurse-submodules https://github.com/pmj110119/YOLOX_deepsort_tracker.git
    ```
 
-   If you already cloned and forgot to use `--recurse-submodules` you can run `git submodule update --init`(clone最新的YOLOX仓库)
+   If you already cloned and forgot to use `--recurse-submodules` you can run `git submodule update --init`(clone YOLOX)
 
 2. Make sure that you fulfill all the requirements: Python 3.8 or later with all [requirements.txt](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch/blob/master/requirements.txt) dependencies installed, including torch>=1.7. To install, run:
 
