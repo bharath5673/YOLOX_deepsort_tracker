@@ -112,7 +112,7 @@ python demo.py --path=test.mp4
    
  
 
-<img src="WhatsApp Image 2021-08-08 at 4.02.10 PM.jpeg" width="400"/> <img src="WhatsApp Image 2021-08-08 at 4.02.11 PM.jpeg" width="400"/> 
+<img src="demo1.jpeg" width="400"/> <img src="demo2.jpeg" width="400"/> 
 </p>
 <br>
 <div>
