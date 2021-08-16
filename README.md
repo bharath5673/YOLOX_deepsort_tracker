@@ -120,5 +120,4 @@ python demo.py --path=test.mp4
 
 </div>
 
-</div>
 ### Download and install this [app]( https://drive.google.com/file/d/1lO6w0AKk4SskZ3yFKqqTHr5eStYNWrVd/view) on ur android device
