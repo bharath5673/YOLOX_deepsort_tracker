@@ -106,7 +106,9 @@ python demo.py --path=test.mp4
 
 ##  🔥: Run demo on ur android phone
 
-![Alt text]("WhatsApp Image 2021-08-08 at 4.02.10 PM.jpeg" width="400"/)  
+### Download and install this [app:]( https://drive.google.com/file/d/1lO6w0AKk4SskZ3yFKqqTHr5eStYNWrVd/view) from Gdrive
+   
+   
 <div align="center">
 <p>
    
